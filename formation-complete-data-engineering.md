@@ -1,4 +1,5 @@
 # Formation complète en Data Engineering pour débutants
+<img width="4000" height="2250" alt="Copie de Orange Modern Attractive YouTube Thumbnail (18) (1)" src="https://github.com/user-attachments/assets/eebe9b40-ada2-4477-8335-57aed0626bb5" />
 
 ## Introduction
 Aujourd'hui, explorons ensemble le monde du Data Engineering. Si vous souhaitez devenir Data Engineer et maîtriser les pipelines de données, vous êtes au bon endroit !
@@ -269,3 +270,4 @@ CMD ["python", "script.py"]
 ```python
 import subprocess
 import time
+
